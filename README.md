@@ -36,3 +36,5 @@ The high number of tuberculosis and dengue hemorrhagic fever (DHF) cases in Mata
    pip install pandas
    ```
 2. Set up the tools used.
+3. Adjust the dataset extracting section to the dataset you will be using (if you are using your own dataset).
+4. Run the code.
